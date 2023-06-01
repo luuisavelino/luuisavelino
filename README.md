@@ -1,4 +1,6 @@
-## Aopa, bão?! Eu sou o Luis Avelino :D
+# Olá! Sou o Luis Avelino
+
+Atualmente, atuo como Desenvolvedor Backend Go
 
 
 
